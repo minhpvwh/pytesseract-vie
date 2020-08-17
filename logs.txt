@@ -1,0 +1,1 @@
+The kwarg ``block_size`` must be odd! Given ``block_size`` 12 is even.
